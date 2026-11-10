@@ -1,0 +1,17 @@
+.git
+.agents
+.cursor
+skills-lock.json
+**/.env
+**/.env.*
+!**/.env.example
+**/node_modules
+**/vendor
+**/dist
+**/.phpunit.cache
+**/.phpunit.result.cache
+backend/storage/logs
+backend/storage/framework/cache/data
+backend/storage/framework/sessions
+backend/storage/framework/views
+backend/database/database.sqlite

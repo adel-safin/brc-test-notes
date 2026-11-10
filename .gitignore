@@ -1,0 +1,8 @@
+# Agent skills stay local. They are not part of the submission.
+.agents/
+.cursor/skills/
+skills-lock.json
+
+node_modules/
+vendor/
+.env
